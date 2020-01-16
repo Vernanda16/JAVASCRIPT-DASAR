@@ -1,3 +1,5 @@
+//for of
+
 function for_of() {
     var angka = [1, 9, 3, 11, 8, 6, 7];
 

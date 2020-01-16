@@ -1,3 +1,5 @@
+//struktur logika if- elseif
+
 var nilai = 50;
 
 if (nilai > 200)
