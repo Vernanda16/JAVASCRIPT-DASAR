@@ -1,4 +1,5 @@
 //for of
+//berfungsi untuk mengeluarkan nilai yang bertipe data array
 
 function for_of() {
     var angka = [1, 9, 3, 11, 8, 6, 7];

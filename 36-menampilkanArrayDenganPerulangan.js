@@ -4,7 +4,7 @@ const menampilkanArray = () => {
     var angka = [6, 9, 4, 3, 7, 1];
 
 
-    for (var i = 0; i < angka.length; i++) {
+    for (var i = 0; i < angka.length; i++) { //untuk menampilkan array dengan perulangan biasa gunakan .length
         console.log(angka[i]);
     }
 }
